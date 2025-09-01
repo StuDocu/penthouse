@@ -1,3 +1,5 @@
+This is a fork of penthouse that supports container queries
+
 # penthouse
 
 > Critical Path CSS Generator
